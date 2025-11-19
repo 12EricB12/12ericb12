@@ -11,7 +11,7 @@ Take a look at my projects below for some of the things I've done that I find pa
 ## 🧪 Some projects I'm currently working on...
 - Dark matter map generation using Python
 - Websites for clubs
-- Portfolio Website
+- Portfolio Website  
 And more! although they aren't too exciting, so I won't put them here...
 
 ## 📫 Contacts
