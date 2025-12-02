@@ -6,7 +6,6 @@ Take a look at my projects below for some of the things I've done that I find pa
 
 ## ✨ Favourite projects...
 - [**A Novel Method to Categorize Rogue Planets Through Orbits and N-Body Simulation**](https://github.com/12EricB12/WWSEF-2024)
-- [**AI Form Checker with Custom Classification Model**](https://github.com/12EricB12/Form-Checker)
 
 ## 🧪 Some projects I'm currently working on...
 - Dark matter map generation using Python
