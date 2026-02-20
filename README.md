@@ -6,9 +6,10 @@ Take a look at my projects below for some of the things I've done that I find pa
 
 ## ✨ Favourite projects...
 - [**A Novel Method to Categorize Rogue Planets Through Orbits and N-Body Simulation**](https://github.com/12EricB12/WWSEF-2024)
+- [**DARK - A Neural Network Trained to Generate Dark Matter**](https://github.com/devanlooches/01000100-01100001-01110010-01101011)
 
 ## 🧪 Some projects I'm currently working on...
-- Dark matter map generation using Python
+- Improving Dark Matter Map Predictions
 - Websites for clubs
 - Portfolio Website
 
